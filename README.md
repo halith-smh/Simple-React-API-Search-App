@@ -25,6 +25,10 @@ To get started with the Basic API Fetch App, follow the steps below:
 
    - Command: `npm install`
 
+## Demo (**Beginner Project)
+
+<img height="400px" src="https://raw.githubusercontent.com/halith-smh/Simple-React-API-Search-App/main/demo1.gif" />
+
 ## Usage
 
 1. Start the JSON Server to serve the user data:
